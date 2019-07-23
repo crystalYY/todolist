@@ -27,12 +27,12 @@ html{
 }
 .style-btn{
 	box-sizing: border-box;
-	background-image: linear-gradient(to bottom, yellow, white 50%, orange);
+	background-image: linear-gradient(to bottom, yellow, white);
 	width: 25%;
 	height: 40px;
 	margin-left:5%;
 	border-radius: 10px;
-	border:none;
+	border:1px solid yellow;
 	font-size: 1.2rem;
 	line-height: 40px;
 	outline: none;
